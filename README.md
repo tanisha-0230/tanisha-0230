@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/user-attachments/assets/7eea8141-c50c-4efb-ae0d-257162143780)
+![Master-Head](https://github.com/user-attachments/assets/64c6c979-501d-40ca-acea-66373584943c)
 
 <!-- 
 <h1 align="center">Hi 👋, I'm Tanisha Bisht</h1>
@@ -24,6 +24,6 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanisha-0230&theme=dark&show_icons=true&locale=en&layout=compact" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanisha-0230&theme=dark" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanisha-0230&show_icons=true&locale=en&layout=compact" height="150px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanisha-0230" height="150px"/>
 </p>
